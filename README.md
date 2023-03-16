@@ -4,4 +4,5 @@ EditString is string library,can conduct replace,slice,clear,and other,operate f
 
 
 
+Update - 2023/3/16 : Improve performance.
 Update - 2023/2/14 : Revise function : strslice.
